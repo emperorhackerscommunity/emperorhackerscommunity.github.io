@@ -1,0 +1,25 @@
+/*shortcut*/
+* {
+  font-family: 'EB Garamond', serif;
+  color: white;
+}
+.td {
+  text-decoration: none;
+}
+.cre {
+  font-family: 'Creepster', cursive;
+}
+.cbg {
+  background-color: #404040;
+}
+.lob {
+  font-family: 'Lobster Two', cursive;
+}
+
+.pac {
+  font-family: 'Pacifico', cursive;
+  font-weight: 100;
+}
+.clt {
+  color: gold;
+}
